@@ -42,6 +42,8 @@ log-analyzer/
 ├── report.txt
 ├── file_properties.txt
 └── README.md
+└── screenshots/
+      └── output.png
 ```
 
 ---
@@ -76,20 +78,9 @@ chmod +x analyzer.sh
 
 ---
 
-# Sample Output
+# Sample Output Screenshot
 
-```text
---------- LOG ANALYZER SYSTEM----------
-
-Total Errors   : 2
-Total Warnings : 2
-Total Info     : 3
-
-========== ERROR LINES ==========
-
-Line 3: ERROR Database connection failed
-Line 5: ERROR Invalid password
-```
+![Log Analyzer Output](screenshots/output.png)
 
 ---
 
@@ -120,3 +111,13 @@ Contains:
 
 ---
 
+## Future Improvements
+
+- Support multiple log files
+- Add timestamp-based filtering
+- Export reports in CSV format
+- Add real-time log monitoring
+
+---
+
+Designed to demonstrate Bash scripting, log analysis, and Linux command-line automation.
