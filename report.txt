@@ -1,0 +1,9 @@
+========== REPORT ==========
+
+Generated on: Wed May 13 05:52:43 UTC 2026
+
+File Name      : sample.log
+Total Lines    : 7
+Total Errors   : 2
+Total Warnings : 2
+Total Info     : 3

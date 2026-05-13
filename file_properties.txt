@@ -1,0 +1,17 @@
+========== FILE PROPERTIES ==========
+
+Generated on: 13-05-26 05:52:43
+
+File Name: sample.log
+File Type: sample.log: ASCII text
+File Size: 4.0K	sample.log
+
+Permissions: -rw-r--r-- 1 harshita1924 harshita1924 171 May 13 04:25 sample.log
+Readable: Yes
+Writable: Yes
+Modify: 2026-05-13 04:25:32.171024692 +0000
+
+Log Type Frequency:
+      2 ERROR
+      3 INFO
+      2 WARNING
