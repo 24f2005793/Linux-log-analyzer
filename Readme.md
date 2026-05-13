@@ -80,7 +80,9 @@ chmod +x analyzer.sh
 
 # Sample Output Screenshot
 
-![Log Analyzer Output](screenshots/output.png)
+<p align="center">
+  <img src="screenshots/output.png" width="550">
+</p>
 
 ---
 
